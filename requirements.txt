@@ -1,0 +1,4 @@
+streamlit>=1.38
+pandas>=2.0
+pytest>=7.4
+markdown-it-py>=3.0
